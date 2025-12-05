@@ -40,7 +40,6 @@ src/
 │   ├── ui/              # Reusable UI primitives (Buttons, Cards, Pills)
 │   └── TradingLanding/  # Market-specific components
 ├── pages/               # Page components
-├── assets/              # Image assets
 ├── styles/              # Global styles (home.css)
 ├── App.tsx              # Root component
 └── main.tsx             # Entry point
