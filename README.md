@@ -48,7 +48,7 @@ src/
 
 ## 🏗️ Architecture Overview
 
-### Component Organization
+### Component Organisation
 
 The project follows a clean, scalable architecture:
 
@@ -119,7 +119,7 @@ The project follows a clean, scalable architecture:
 - **Tailwind CSS** for utility-first styling
 - **Custom CSS** (`home.css`) for complex layouts and animations
 - **Inline styles** preserved where they match exact Figma specifications
-- All visual styling (colors, spacing, gradients) preserved from original implementation
+- All visual styling (colours, spacing, gradients) preserved from original implementation
 
 ## 🔧 Key Features
 
@@ -139,7 +139,7 @@ The project follows a clean, scalable architecture:
 
 3. **Interactive Features**:
 
-   - Category pills and tabs have state management but navigation is placeholder
+   - Category pills and tabs have state management, but navigation is a placeholder
    - Chart is static (SVG-based) - real-time data integration would be a future enhancement
    - Testimonials are static - carousel functionality can be added if needed
 
@@ -149,9 +149,9 @@ The project follows a clean, scalable architecture:
 
 1. **Performance**:
 
-   - Image optimization and lazy loading
+   - Image optimisation and lazy loading
    - Code splitting for sections
-   - Memoization of expensive components
+   - Memoisation of expensive components
 
 2. **Functionality**:
 
@@ -170,7 +170,7 @@ The project follows a clean, scalable architecture:
 4. **Accessibility**:
 
    - Keyboard navigation improvements
-   - Screen reader optimizations
+   - Screen reader optimisations
    - Focus management
 
 5. **Developer Experience**:
@@ -181,8 +181,8 @@ The project follows a clean, scalable architecture:
 ## ⚠️ Important Notes
 
 - **Tight Deadline**: This refactoring was completed under a tight deadline (Wed morning → Fri 23:59)
-- **Visual Fidelity**: All visual styling, colors, spacing, and layouts are preserved exactly as they were
-- **No Breaking Changes**: The refactor maintains 100% visual compatibility while improving code organization
+- **Visual Fidelity**: All visual styling, colours, spacing, and layouts are preserved exactly as they were
+- **No Breaking Changes**: The refactor maintains 100% visual compatibility while improving code organisation
 
 ## 📦 Dependencies
 
@@ -198,4 +198,4 @@ The project follows a clean, scalable architecture:
 
 ---
 
-Built with ❤️ for Premier Markets
+Built for Obermind (Shortlisted Candidate Task)
