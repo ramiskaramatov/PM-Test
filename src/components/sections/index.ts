@@ -1,0 +1,10 @@
+export { HeroSection } from "./HeroSection";
+export { TickerSection } from "./TickerSection";
+export { AccessMarketsSection } from "./AccessMarketsSection";
+export { HeroJoinTraders } from "./HeroJoinTraders";
+export { HeroBanner } from "./HeroBanner";
+export { TradingLandingSection } from "../TradingLandingSection";
+export { EmpowerTradingSection } from "./EmpowerTradingSection";
+export { SeamlessWithdrawalsSection } from "./SeamlessWithdrawalsSection";
+export { DailyUpdatesSection } from "./DailyUpdatesSection";
+export { TestimonialsSection } from "./TestimonialsSection";
